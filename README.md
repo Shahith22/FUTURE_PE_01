@@ -109,6 +109,5 @@ FUTURE_PE_01
 
 ## 👤 Author
 
-Your Name
 Syed Mohammed Shahith S
 - Ready for real-world use
