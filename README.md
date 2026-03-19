@@ -101,11 +101,6 @@ FUTURE_PE_01
 
 ---
 
-## 🔗 Live Demo
-
-(Add your deployed Streamlit link here)
-
----
 
 ## 👤 Author
 
