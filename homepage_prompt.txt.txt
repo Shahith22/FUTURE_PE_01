@@ -1,0 +1,15 @@
+Act as a professional website copywriter.
+
+Generate high-converting homepage copy for a freelancing agency.
+
+Business Name: PromptCraft Studio
+Target Audience: Local businesses and startups
+Location: Coimbatore
+Tone: Professional and modern
+
+Output:
+1. Headline
+2. Sub-headline
+3. Intro paragraph
+4. 3 key benefits
+5. CTA
